@@ -33,15 +33,19 @@ phone: xxx-xxx xx xx
 #
 city:
   - Montpellier
-# e.g. UM, DRO, CEFE, etc.
-workplace: XXX University
 #
-affiliation: CNRS/INRAE/etc
+# e.g. UM, IRD, CEFE, CBGP, CIRAD, INRAE, etc.
+workplace: IRD
 #
-# Your current status. e.g. "Internship", "PhD student", "Postdoc", "Engineer", "Engineer (IE)", "Engineer (IR)", 
-# "Permanent Researcher", "Non Permanent Researcher", "Other"
+# e.g. IRD, CIRAD, INRAE, etc.
 #
-status: Other
+affiliation: IRD
+#
+# Your current status. e.g. "Internship", "PhD student", "Postdoc",
+# "Engineer", "Engineer (IE)", "Research Engineer (IR)", "Permanent Researcher",
+# "Non Permanent Researcher", "Other"
+#
+status: Research Engineer (IR)
 #
 # Current categories (pick among this list):
 # Bioinfo, Biostat, Biomath, Imaging, Data Analyst, Data management, Other

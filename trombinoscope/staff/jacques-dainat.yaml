@@ -20,7 +20,6 @@ keywords:
   - reproducible research
 type: staff
 orcid: 0000-0001-1234-123X
-bibtex: jacques-dainat.bib
 category:
   - software
   - training
@@ -30,4 +29,4 @@ city:
   - Montpellier
 affiliation: IRD
 workplace: IRD
-facility: SouthGreen
+status: Research Engineer (IR)

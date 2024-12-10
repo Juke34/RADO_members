@@ -13,12 +13,6 @@ def validate_category(d,f):
            return False
     return True 
 
-def check_bibtex_file(d, f):
-    p = pathlib.Path(f).parent.parent / 'publication'
-    if 'bibtex' in d and d['bibtex']:
-        return (p / d['bibtex']).exists()
-    return True
-
 def validate_orcid(d, f):
     regex = re.compile(r'^(\d{4}-){3}\d{3}[\dX]$')
     try:
@@ -48,8 +42,7 @@ def validate_url(d, f):
 checks = {
     'category has to be all lower case': validate_category,
     'invalid orcid': validate_orcid,
-    'invalid homepage': validate_url,
-    'bibtex file missing': check_bibtex_file
+    'invalid homepage': validate_url
 }
 
 def check_file(file):
