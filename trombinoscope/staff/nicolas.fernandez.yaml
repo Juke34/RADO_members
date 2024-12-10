@@ -78,13 +78,5 @@ keywords:
   - emacs
   - coffee
 
-#
-##################################################################################
-bio:
-  Bioinformatician specializing in emerging infectious diseases.
-  Currently scientific computing expert at UMI-233 TransVIHMI IRD in Montpellier.
-  Focusing on bioinformatic NGS data analyses, metagenomic and virus variants.
-  Previously, worked as an independent data analysis expert and a biology engineer.
-  Also a trainer, having participated in numerous international missions.
-  His skills also include the development of FAIR bioinformatics workflows.
-  He holds a master s degree in bioengineering from the University of Montpellier.
+###############################################################################
+bio: https://orcid.org/0000-0001-8490-3714
