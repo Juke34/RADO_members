@@ -19,7 +19,7 @@ type: staff
 #
 # Change to "true"
 #
-active: false
+active: true
 #
 # Your email address.
 #

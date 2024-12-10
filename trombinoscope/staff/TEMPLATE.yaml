@@ -17,6 +17,7 @@ staffname: Jhon Doe
 #
 type: staff
 #
+# If false your profile will not be displayed. 
 # Change to "true"
 #
 active: false
