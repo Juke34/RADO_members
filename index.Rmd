@@ -1,5 +1,5 @@
 ---
-title: "<b>RADO</b> | Member"
+title: "<b>RADO</b> | Members"
 output:
   html_document:
       toc: false
