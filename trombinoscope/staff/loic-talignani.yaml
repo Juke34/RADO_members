@@ -79,10 +79,14 @@ keywords:
 
 #
 bio:
-  I am a bioinformatician specializing in population genomics, viral metagenomics,
-  and single-cell RNA-seq analysis. I hold a Master’s in Bioinformatics from the
-  University of Montpellier.
+  I am a bioinformatician specializing in population genomics, 
+  viral metagenomics, and single-cell RNA-seq analysis. 
+  
+  
+  I hold a Master’s in Bioinformatics from the University of 
+  Montpellier.
 
 
-  I develop Snakemake pipelines to automate data processing for single-cell RNA-seq
-  and DNA-seq analyses, enhancing reproducibility and efficiency in research workflows.
+  I develop Snakemake pipelines to automate data processing 
+  for single-cell RNA-seq and DNA-seq analyses, enhancing 
+  reproducibility and efficiency in research workflows.
