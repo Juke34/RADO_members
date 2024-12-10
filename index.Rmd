@@ -72,7 +72,7 @@ dfr$profile[!sapply(paste0("scaled/",dfr$image,".png"),file.exists)] <- paste0("
 
 dfr$fname <- NULL
 dfr$img <- NULL
-dfr <- dfr[,c("profile","city","workplace","affiliation","status","name","category","keywords")]
+dfr <- dfr[,c("profile","name","city","workplace","affiliation","status","category","keywords")]
 ```
 
 ```{r,include=TRUE,echo=FALSE}
@@ -80,7 +80,7 @@ col_category <- c('#A6CEE3','#1F78B4','#B2DF8A','#33A02C','#FB9A99','#E31A1C','#
 col_affiliation <- c('#0073C2FF','#EFC000FF','#868686FF','#CD534CFF','#7AA6DCFF','#003C67FF','#8F7700FF','#3B3B3BFF','#A73030FF','#4A6990FF","#3B4992FF','#EE0000FF','#008B45FF','#631879FF','#008280FF','#BB0021FF','#5F559BFF','#A20056FF','#808180FF','#1B1919FF')
 col_city <- c('#1B9E77','#D95F02','#7570B3','#E7298A','#66A61E','#E6AB02','#A6761D','#666666')
 col_status <- c('#017A4AFF','#3D98D3FF','#FF363CFF','#7559A2FF','#794924FF','#8CDB5EFF','#D6D6D6FF','#FB8C00FF')
-col_worplace <- c('#017A4AFF','#3D98D3FF','#FF363CFF','#7559A2FF','#794924FF','#8CDB5EFF','#D6D6D6FF','#FB8C00FF')
+col_worplace <- c('#015F3AFF','#3287C5FF','#E63A2FFF','#6A4D8CFF','#6B4022FF','#7ECF4CFF','#C5C5C5FF','#F57C00FF')
 
 if(length(col_category) < length(levels(factor(dfr$category)))) warning("Number of colours less than number of category.")
 if(length(col_affiliation) < length(levels(factor(dfr$affiliation)))) warning("Number of colours less than number of affiliation.")
