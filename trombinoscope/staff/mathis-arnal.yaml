@@ -1,23 +1,20 @@
 ---
-staffname: Mathis Arnal 
+staffname: Mathis Arnal
 active: true
 bio:
-  Bio-informatician in VIA , I like to support research project via
-  bioinformatic approaches. I enjoy elaborating on strategies to efficiently
-  resolve problems and implementing practical solutions. I like to code, to
-  develop pipelines (Nextflow) and to share bioinformatics knowledge.
-
-
+  Bioinformatician in VIA, with a master in Bioinformatics. I like to learn
+  new biostatistic and bioinformatic tools, and to share them via training.
 email: mathis.arnal@ird.fr
 image: mathis-arnal.jpg
-role: Bioinformatician
+role: 
+  - Bioinformatician
+  - Biostatistician
 keywords:
-  - genome annotation
-  - nextflow
+  - statistic
+  - epidemiology
   - conda
   - git
   - high-performance computing
-  - reproducible research
 type: staff
 orcid: 0000-0001-1234-123X
 category:
@@ -26,7 +23,7 @@ category:
   - genomics
 phone: +33 (0)00 00 00 00
 city:
-  - Montpellier
+  - Chiang Mai, Thailand
 affiliation: IRD
-workplace: IRD
-status: Research Engineer (IR)
+workplace: AMS University, Chiang Mai, Thailand
+status: VIA (Volontariat International en Administration)
