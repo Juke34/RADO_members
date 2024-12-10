@@ -1,5 +1,5 @@
 ---
-title: "<b>SouthGreen</b> | Staff"
+title: "<b>RADO</b> | Member"
 output:
   html_document:
       toc: false
@@ -55,6 +55,7 @@ dfr <- f1 %>% {
               category = map_chr(.,"category",.null=NA_character_),
               city = map_chr(.,"city",.null=NA_character_),
               affiliation = map_chr(.,"affiliation",.null=NA_character_),
+              workplace = map_chr(.,"workplace",.null=NA_character_),
               status = map_chr(.,"status",.null=NA_character_),
               image = sub("[.].+$","",map_chr(.,"image",.null=NA_character_)),
               fname = map_chr(.,"fname",.null=NA_character_),
@@ -71,7 +72,7 @@ dfr$profile[!sapply(paste0("scaled/",dfr$image,".png"),file.exists)] <- paste0("
 
 dfr$fname <- NULL
 dfr$img <- NULL
-dfr <- dfr[,c("profile","name","category","workplace", "status","affiliation","city","keywords")]
+dfr <- dfr[,c("profile","city","workplace","affiliation","status","name","category","keywords")]
 ```
 
 ```{r,include=TRUE,echo=FALSE}

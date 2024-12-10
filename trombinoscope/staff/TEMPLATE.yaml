@@ -33,8 +33,8 @@ phone: xxx-xxx xx xx
 #
 city:
   - Montpellier
-# e.g. UM, DRO, CEFE, etc.
-workplace: XXX University
+# e.g. UM, IRD, CEFE, CBGP, CIRAD, INRAE, etc.
+workplace: IRD
 #
 affiliation: CNRS/INRAE/etc
 #
