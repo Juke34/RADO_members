@@ -1,0 +1,29 @@
+---
+staffname: Mathis Arnal
+active: true
+bio:
+  Bioinformatician in VIA, with a master in Bioinformatics. I like to learn
+  new biostatistic and bioinformatic tools, and to share them via training.
+email: mathis.arnal@ird.fr
+image: mathis-arnal.jpg
+role:
+  - Bioinformatician
+  - Biostatistician
+keywords:
+  - statistic
+  - epidemiology
+  - conda
+  - git
+  - high-performance computing
+type: staff
+orcid: 0000-0001-1234-123X
+category:
+  - software
+  - training
+  - genomics
+phone: +33 (0)00 00 00 00
+city:
+  - Chiang Mai, Thailand
+affiliation: IRD
+workplace: AMS University, Chiang Mai, Thailand
+status: VIA (Volontariat International en Administration)
