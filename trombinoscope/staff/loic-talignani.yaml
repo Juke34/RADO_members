@@ -86,6 +86,3 @@ bio:
 
   I develop Snakemake pipelines to automate data processing for single-cell RNA-seq
   and DNA-seq analyses, enhancing reproducibility and efficiency in research workflows.
-
-
-  No line is longer than 80 characters.
