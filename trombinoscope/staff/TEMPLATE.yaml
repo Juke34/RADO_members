@@ -1,0 +1,81 @@
+# Please fill in your details and delete comments.
+# Please consider trying to keep this file up to date.
+#
+# This template contains dummy data for a fictional person,
+# "Jhon Doe".
+#
+# The line saying "---" should be the first line of your file.
+# No line should be longer than 80 characters.
+# Your file should be called "<firstname>-<lastname>.yaml".
+---
+#
+# Your real name, the exact way that you want it displayed.
+#
+staffname: Jhon Doe
+#
+# Most people will have "type: staff", but some may be "affiliate".
+#
+type: staff
+#
+# Change to "true"
+#
+active: false
+#
+# Your email address.
+#
+email: jhon.doe@southgreen.fr
+#
+phone: xxx-xxx xx xx
+#
+# Use "city:" to say what city your main official workplace is
+# located in.  This is a list for people that are genuinely working
+# in different places.
+#
+city:
+  - Montpellier
+# e.g. UM, DRO, CEFE, etc.
+workplace: XXX University
+#
+affiliation: CNRS/INRAE/etc
+#
+# Your current status. e.g. "Internship", "PhD student", "Postdoc", "Engineer", "Engineer (IE)", "Engineer (IR)", 
+# "Permanent Researcher", "Non Permanent Researcher", "Other"
+#
+status: Other
+#
+# Current categories (pick among this list):
+# Bioinfo, Biostat, Biomath, Imaging, Data Analyst, Data management, Other
+#
+category: Other
+#
+# Page to link to from your profile page (rarely used).
+#
+homepage:
+#
+# If you have an ORCID ID ("NNNN-NNNN-NNNN-NNNN")
+#
+orcid: 0000-0001-1234-123X
+#
+# The name of an image file in the "img" subdirectory, no more than
+# about 400 pixels wide and less than 200 KB in file size.
+#
+image: jhon-doe.png
+#
+# A list of lowercase keywords relevant to you.
+#
+keywords:
+  - genomics
+  - cancer genomics
+  - unix
+  - r
+  - rnaseq
+
+#
+bio:
+  Short biographical text here.
+
+
+  Paragraphs are separated by two empty lines.
+
+
+  No line is longer than 80 characters.
