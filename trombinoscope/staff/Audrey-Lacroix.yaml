@@ -19,13 +19,13 @@ type: staff
 #
 # Change to "true"
 #
-active: false
+active: true
 #
 # Your email address.
 #
 email: audrey.lacroix@ird.fr
 #
-phone: +334 67 41 64 42 
+phone: +334 67 41 64 42
 #
 # Use "city:" to say what city your main official workplace is
 # located in.  This is a list for people that are genuinely working
@@ -51,8 +51,9 @@ status: Research Engineer (IR)
 # Bioinfo, Biostat, Biomath, Imaging, Data Analyst, Data management, Other
 #
 category: 
-- Virology
-- Microbiology
+  - virology
+  - ngs
+  - r
 #
 # Page to link to from your profile page (rarely used).
 #
@@ -76,7 +77,9 @@ keywords:
 
 #
 bio:
-  Ingénieure de Recherche en virologie sur les virus émergents, One Health, zoonoses
+  Ingénieure de Recherche en virologie sur les virus émergents,
+  One Health,
+  Zoonoses
 
 
   Paragraphs are separated by two empty lines.
