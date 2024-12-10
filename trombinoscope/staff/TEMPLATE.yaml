@@ -39,10 +39,10 @@ workplace: XXX University
 affiliation: CNRS/INRAE/etc
 #
 # Your current status. e.g. "Internship", "PhD student", "Postdoc",
-# "Engineer", "Engineer (IE)", "Engineer (IR)", "Permanent Researcher",
+# "Engineer", "Engineer (IE)", "Research Engineer (IR)", "Permanent Researcher",
 # "Non Permanent Researcher", "Other"
 #
-status: Other
+status: Research Engineer (IR)
 #
 # Current categories (pick among this list):
 # Bioinfo, Biostat, Biomath, Imaging, Data Analyst, Data management, Other
