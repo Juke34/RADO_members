@@ -50,10 +50,10 @@ status: Non Permanent Researcher
 # Current categories (pick among this list):
 # Bioinfo, Biostat, Biomath, Imaging, Data Analyst, Data management, Other
 #
-category: 
-- Biostat
-- Imaging
-- Data Analyst
+category:
+  - Biostat
+  - Imaging
+  - Data Analyst
 #
 # Page to link to from your profile page (rarely used).
 #
@@ -66,16 +66,15 @@ orcid: 0000-0001-1234-123X
 # The name of an image file in the "img" subdirectory, no more than
 # about 400 pixels wide and less than 200 KB in file size.
 #
-image: jhon-doe.png
+image: angelique-porciani.jpg
 #
 # A list of lowercase keywords relevant to you.
 #
 keywords:
   - Biostat
-  - Behavioral ecology 
+  - Behavioral ecology
   - R
-  - Mosquitoes 
-  - 
+  - Mosquitoes
 
 #
 bio:
