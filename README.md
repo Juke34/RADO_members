@@ -1,6 +1,6 @@
-# RADO interactive member info page [![gh-actions-build-status](https://github.com/southgreenplatform/staff-info/workflows/build/badge.svg)](https://github.com/southgreenplatform/staff-info/actions?workflow=build)
+# RADO interactive member info page [![gh-actions-build-status](https://github.com/Juke34/RADO_members/workflows/build/badge.svg)](https://github.com/Juke34/RADO_members/actions?workflow=build)
 
-https://southgreenplatform.github.io/staff-info/
+https://Juke34.github.io/RADO_members/
 
 <img src="assets/example.png" width="600" height="400" />
 

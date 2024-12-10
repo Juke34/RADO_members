@@ -33,10 +33,13 @@ phone: xxx-xxx xx xx
 #
 city:
   - Montpellier
+#
 # e.g. UM, IRD, CEFE, CBGP, CIRAD, INRAE, etc.
 workplace: IRD
 #
-affiliation: CNRS/INRAE/etccp 
+# e.g. IRD, CIRAD, INRAE, etc.
+#
+affiliation: IRD
 #
 # Your current status. e.g. "Internship", "PhD student", "Postdoc",
 # "Engineer", "Engineer (IE)", "Research Engineer (IR)", "Permanent Researcher",
