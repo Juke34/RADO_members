@@ -50,9 +50,9 @@ status: Engineer (IE)
 # Current categories (pick among this list):
 # Bioinfo, Biostat, Biomath, Imaging, Data Analyst, Data management, Other
 #
-category: 
-    - Biostat
-    - Data management
+category:
+  - Biostat
+  - Data management
 #
 # Page to link to from your profile page (rarely used).
 #
