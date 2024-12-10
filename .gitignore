@@ -1,6 +1,7 @@
 #
 index.html
 index_files
+**/.DS_Store
 
 # Conda environment
 *-env
