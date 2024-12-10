@@ -10,7 +10,6 @@ bio:
 
 email: jacques.dainat@ird.fr
 image: jacques-dainat.jpg
-role: Bioinformatician
 keywords:
   - genome annotation
   - nextflow
@@ -20,10 +19,7 @@ keywords:
   - reproducible research
 type: staff
 orcid: 0000-0001-1234-123X
-category:
-  - software
-  - training
-  - genomics
+category: Bioinfo
 phone: +33 (0)00 00 00 00
 city:
   - Montpellier
