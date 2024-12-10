@@ -1,6 +1,6 @@
-# SouthGreen Staff Information [![gh-actions-build-status](https://github.com/southgreenplatform/staff-info/workflows/build/badge.svg)](https://github.com/southgreenplatform/staff-info/actions?workflow=build)
+# RADO interactive member info page [![gh-actions-build-status](https://github.com/southgreenplatform/staff-info/workflows/build/badge.svg)](https://github.com/southgreenplatform/staff-info/actions?workflow=build)
 
-SouthGreen interactive staff info page. https://southgreenplatform.github.io/staff-info/
+https://southgreenplatform.github.io/staff-info/
 
 <img src="assets/example.png" width="600" height="400" />
 
