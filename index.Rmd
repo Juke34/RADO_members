@@ -1,5 +1,5 @@
 ---
-title: "<b>RADO</b> | Member"
+title: "<b>RADO</b> | Members"
 output:
   html_document:
       toc: false
@@ -80,31 +80,31 @@ col_category <- c('#A6CEE3','#1F78B4','#B2DF8A','#33A02C','#FB9A99','#E31A1C','#
 col_affiliation <- c('#0073C2FF','#EFC000FF','#868686FF','#CD534CFF','#7AA6DCFF','#003C67FF','#8F7700FF','#3B3B3BFF','#A73030FF','#4A6990FF","#3B4992FF','#EE0000FF','#008B45FF','#631879FF','#008280FF','#BB0021FF','#5F559BFF','#A20056FF','#808180FF','#1B1919FF')
 col_city <- c('#1B9E77','#D95F02','#7570B3','#E7298A','#66A61E','#E6AB02','#A6761D','#666666')
 col_status <- c('#017A4AFF','#3D98D3FF','#FF363CFF','#7559A2FF','#794924FF','#8CDB5EFF','#D6D6D6FF','#FB8C00FF')
-col_worplace <- c('#015F3AFF','#3287C5FF','#E63A2FFF','#6A4D8CFF','#6B4022FF','#7ECF4CFF','#C5C5C5FF','#F57C00FF')
+col_workplace <- c('#015F3AFF','#3287C5FF','#E63A2FFF','#6A4D8CFF','#6B4022FF','#7ECF4CFF','#C5C5C5FF','#F57C00FF')
 
 if(length(col_category) < length(levels(factor(dfr$category)))) warning("Number of colours less than number of category.")
 if(length(col_affiliation) < length(levels(factor(dfr$affiliation)))) warning("Number of colours less than number of affiliation.")
 if(length(col_city) < length(levels(factor(dfr$city)))) warning("Number of colours less than number of city.")
 if(length(col_status) < length(levels(factor(dfr$status)))) warning("Number of colours less than number of status.")
-if(length(col_worplace) < length(levels(factor(dfr$worplace)))) warning("Number of colours less than number of worplace.")
+if(length(col_workplace) < length(levels(factor(dfr$workplace)))) warning("Number of colours less than number of workplace.")
 
 col_category <- col_category[1:length(levels(factor(dfr$category)))]
 col_affiliation <- col_affiliation[1:length(levels(factor(dfr$affiliation)))]
 col_city <- col_city[1:length(levels(factor(dfr$city)))]
 col_status<- col_status[1:length(levels(factor(dfr$status)))]
-col_worplace <- col_worplace[1:length(levels(factor(dfr$worplace)))]
+col_workplace <- col_workplace[1:length(levels(factor(dfr$workplace)))]
 
 col_category2 <- col_category[factor(dfr$category)]
 col_affiliation2 <- col_affiliation[factor(dfr$affiliation)]
 col_city2 <- col_city[factor(dfr$city)]
 col_status2 <- col_status[factor(dfr$status)]
-col_worplace2 <- col_worplace[factor(dfr$worplace)]
+col_workplace2 <- col_workplace[factor(dfr$workplace)]
 
 dfr$category <- paste0('<span class="color-tag" style="background-color:',col_category2,';">',dfr$category,'</span>')
 dfr$affiliation <- paste0('<span class="color-tag"  style="background-color:',col_affiliation2,';">',dfr$affiliation,'</span>')
 dfr$city <- paste0('<span class="color-tag" style="background-color:',col_city2,';">',dfr$city,'</span>')
 dfr$status <- paste0('<span class="color-tag" style="background-color:',col_status2,';">',dfr$status,'</span>')
-dfr$worplace <- paste0('<span class="color-tag" style="background-color:',col_worplace2,';">',dfr$worplace,'</span>')
+dfr$workplace <- paste0('<span class="color-tag" style="background-color:',col_workplace2,';">',dfr$workplace,'</span>')
 ```
 
 
@@ -132,7 +132,7 @@ datatable(dfr,
 
 <div>
 <span style="float:left; vertical-align:middle">
-<b>`r format(Sys.Date(),format="%Y")`</b> • SouthGreen
+<b>`r format(Sys.Date(),format="%Y")`</b> • RADO
 </span>
 <span style="float:right; vertical-align:middle">
 <p style="text-align: left; font-size: small;">

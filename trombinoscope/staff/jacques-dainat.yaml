@@ -5,12 +5,11 @@ bio:
   Research engineer in Bioinformatics, I like to support research project via
   bioinformatic approaches. I enjoy elaborating on strategies to efficiently
   resolve problems and implementing practical solutions. I like to code, to
-  develop pipelines (Nextflow) and to share bioinformatics knowledge.
+  develop pipelines (Nextflow) and to share bioinformatics knowledge .
 
 
 email: jacques.dainat@ird.fr
 image: jacques-dainat.jpg
-role: Bioinformatician
 keywords:
   - genome annotation
   - nextflow
@@ -20,10 +19,7 @@ keywords:
   - reproducible research
 type: staff
 orcid: 0000-0001-1234-123X
-category:
-  - software
-  - training
-  - genomics
+category: Bioinfo
 phone: +33 (0)00 00 00 00
 city:
   - Montpellier
