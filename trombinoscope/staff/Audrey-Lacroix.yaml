@@ -50,7 +50,7 @@ status: Research Engineer (IR)
 # Current categories (pick among this list):
 # Bioinfo, Biostat, Biomath, Imaging, Data Analyst, Data management, Other
 #
-category: 
+category:
   - virology
   - ngs
   - r
