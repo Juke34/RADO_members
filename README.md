@@ -92,8 +92,8 @@ More about GDPR [here](https://gdpr-info.eu).
 ## Help
 
 Please ask for help by [opening an issue in this
-repository](https://github.com/southgreenplatform/staff-info/issues)
-(this is the preferred way), or ask in the SouthGreen Slack, or [email](https://www.southgreen.fr/contact) if anything is unclear or broken.
+repository](https://github.com/Juke34/RADO_members/issues/new)
+(this is the preferred way), or ask in the RADO Discord, or [email](rado@listes.ird.fr) if anything is unclear or broken.
 
 ## Acknowledgement
 
