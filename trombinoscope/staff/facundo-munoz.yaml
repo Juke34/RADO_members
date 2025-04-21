@@ -1,0 +1,38 @@
+---
+staffname: Facundo Muñoz
+type: staff
+active: true
+email: facundo.munoz@cirad.fr
+phone: +33 467 593 868
+city:
+  - Montpellier
+workplace: CIRAD
+affiliation: CIRAD
+status: Research Engineer (IR)
+category: Biostat, Data Analyst, Data management
+homepage: https://www.uv.es/famarmu/
+orcid: 0000-0002-5061-4241
+image: facundo-munoz.jpg
+keywords:
+  - Biostatistics
+  - FOSS
+  - Open Science
+  - R
+  - Linux
+bio:
+  Mathematician and PhD in Statistics from the University
+  of Valencia, Spain in 2013.
+
+  My research focuses on Bayesian methods and Spatial(-temporal)
+  statistics applied to the interplay between life sciences and the
+  environment.
+
+  Held a postdoctoral position for 4 years at the French National Institute
+  for Agricultural Research (INRA), working on Quantitative Genetics in
+  forestry.
+  I developed statistical models and software for the statistical analysis
+  of forest genetic resources.
+
+  Since october 2017, I work as a Biostatistician at the French agricultural
+  research and international cooperation organization (Cirad),
+  working mainly on animal epidemiology.
